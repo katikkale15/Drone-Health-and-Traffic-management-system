@@ -1,2 +1,3 @@
-# Drone-Health-and-Traffic-management-system
-This repository contains the code and the video Demonstration of the tool and its uses.
+# drone_tracking
+
+a frontend view to track drone based on updating latitude and longitude
